@@ -1,4 +1,8 @@
 # cintel-01-getting-started
+Author: Addie
+GitHub: https://github.com/ajerineg-coder
+
+Project Repository: https://github.com/ajerineg-coder/cintel-01-getting-started
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
