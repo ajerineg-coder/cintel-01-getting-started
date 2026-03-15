@@ -51,6 +51,9 @@ def main() -> None:
     LOG.info("========================")
     LOG.info("Pipeline executed successfully!")
     LOG.info("========================")
+
+    LOG.info("Custom modification by Addie Gemmell")
+
     LOG.info("END main()")
 
 
